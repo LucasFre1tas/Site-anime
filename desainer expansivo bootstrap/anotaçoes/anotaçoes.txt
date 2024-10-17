@@ -1,0 +1,13 @@
+bootstrap= da pra consultar
+
+starter template = configuraçao inicial
+gring system= grade 
+container= centraliza 
+container-fluid= ocupa a tela toda
+
+total de colunas do botstrap tela =12
+w-100 largura 100%
+h-100 altura 100%
+ class="w-100 h-100"
+sempre divisivel por 12
+a foto ocupa o numero de colunas
